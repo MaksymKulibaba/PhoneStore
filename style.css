@@ -1,0 +1,21 @@
+.container {
+	background: #ADD8E6;
+	height: 600px;
+}
+img { 
+	max-width: 15%;
+
+}
+/*.navbar-header a {
+	float: right;
+	width: 50%;
+	padding-right:10px;
+}
+.navbar-header img{
+	float: left;
+	width: 50%;
+}
+*/
+input {
+	background: #ADD8E6;
+}
